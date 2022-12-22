@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69707658157",
+    "project_id": "flutter-kriptoloji",
+    "storage_bucket": "flutter-kriptoloji.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69707658157:android:105ca706c3979940136724",
+        "android_client_info": {
+          "package_name": "com.example.kiriptoloji_proje_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69707658157-0ibf08hh9d6bkrsva5q4bd79rirle148.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC40ahJ4Va6dkLDOfryn7tYQr0M0O1BSiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69707658157-0ibf08hh9d6bkrsva5q4bd79rirle148.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
